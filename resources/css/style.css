@@ -15,8 +15,46 @@ h1 {
   color: white;
 }
 
-.banner a {
+a {
   font-family: Helvetica, sans-serif;
   font-size: 18px;
+  color: white;
+}
+
+/* Style for main body content */
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica, sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.statement p {
+  font-family: Helvetica, sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+/* Style for footer */
+footer {
+  background: dimgray;
+  text-align: left;
+}
+
+.footer p {
+  font-family: Helvetica, sans-serif;
+  font-size: 11px;
   color: white;
 }
